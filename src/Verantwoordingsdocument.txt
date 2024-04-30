@@ -1,0 +1,38 @@
+Verantwoordingsdocument programma Schone Lucht B.V.
+
+Wijze van coderen:
+
+- De code is geschreven met het oog op leesbaarheid en gebruiksvriendelijkheid. Door het gebruik van functies en commentaar is de code gemakkelijk te begrijpen en te onderhouden.
+
+-  Er wordt gebruik gemaakt van ingebouwde Python-functies en bibliotheken zoals NumPy voor gegevensverwerking en Matplotlib voor analyse-visualisaties.
+
+- Waar mogelijk zijn algemene programmeerprincipes toegepast, zoals het vermijden van herhaalde code (DRY - Don't Repeat Yourself) en het gebruik van passende naamgeving van de variabelen.
+
+Selectie van variabelen, functies, klassen en methoden:
+
+- Variabelen zijn zorgvuldig benoemd om hun functie en doel in de code duidelijk te maken.
+
+- Functies zijn ontworpen om specifieke taken uit te voeren volgens het principe van functionaliteitsscheiding. Elke functie heeft een duidelijk omschreven doel en voert een specifieke actie uit.
+
+- Klassen zijn gebruikt wanneer een groep gerelateerde functies en variabelen een geheel vormt. Dit helpt bij het organiseren van de code en het bevorderen van herbruikbaarheid.
+
+- Methoden binnen klassen zijn ontworpen om de functionaliteit van die klasse aan te vullen en te verbeteren.
+
+Automatisering van handelingen:
+
+- De applicatie automatiseert verschillende handelingen die relevant zijn voor de casus, zoals het inlezen van permanente gegevens en meetgegevens, het analyseren van meetgegevens en het tonen van bezoekrapporten.
+
+- Door automatisering worden repetitieve taken verminderd en wordt de efficiëntie van het proces verbeterd.
+
+- Automatisering draagt bij aan het verminderen van menselijke fouten en verhoogt de nauwkeurigheid en betrouwbaarheid van het systeem.
+
+
+
+Waarde van de applicatie:
+
+- De applicatie biedt een geautomatiseerde oplossing voor het controleren van de uitstoot van bedrijven, zoals vereist in de casus van Schone Lucht B.V.
+
+- Het stelt de gebruiker in staat om permanente gegevens en meetgegevens te uploaden en te analyseren om vervuilende bedrijven op te sporen en bezoekrapporten van inspecteurs te bekijken.
+
+- De applicatie draagt bij aan nauwkeurigere controle van bedrijfsuitstoot, waardoor naleving van regelgeving wordt verbeterd.
+
