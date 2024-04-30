@@ -23,7 +23,7 @@ Volg deze stappen om de Schone Lucht B.V. Applicatie te installeren:
 
 1. **Clone de repository**: Clone de repository naar een locatie op je systeem met behulp van Git. Gebruik hiervoor het volgende commando:
 
-git clone <repository_url>
+git clone https://github.com/haykdavidi/python-novi-eindopdracht-hayko.git
 
 2. **Navigeer naar de directory**: Ga naar de gekloonde repository directory met behulp van de terminal of opdrachtprompt.
 
