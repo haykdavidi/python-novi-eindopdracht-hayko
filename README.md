@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 python module-menu.py
 
-7. **upload alle bestanden om de analyses uit te voeren in de applicatie**
+7. **Upload alle bestanden om de analyses uit te voeren in de applicatie**
 
 Typ 1 en druk op enter
 
